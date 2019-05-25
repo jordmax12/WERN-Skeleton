@@ -1,4 +1,4 @@
-# Express/React/JSX/Webpack Skeleton
+# WERN (Webpack, Express, React, Node) Skeleton
 
 # To start
 
