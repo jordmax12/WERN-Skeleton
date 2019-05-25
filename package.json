@@ -1,5 +1,5 @@
 {
-  "name": "portfolio-react",
+  "name": "ProjectName",
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
@@ -7,7 +7,7 @@
     "start": "node app.js",
     "webpack": "npx webpack -w"
   },
-  "author": "Jordan Max",
+  "author": "Author Name Here",
   "license": "ISC",
   "dependencies": {
     "babel-cli": "^6.26.0",
